@@ -21,7 +21,5 @@
     "url": "https://github.com/msttttk/kintone-customize-examples/issues"
   },
   "homepage": "https://github.com/msttttk/kintone-customize-examples#readme",
-  "devDependencies": {
-    "kintone-customize-uploader": "0.0.5"
-  }
+  "devDependencies": {}
 }
