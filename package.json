@@ -4,7 +4,9 @@
   "description": "Required packages for kintone customize examples",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "./node_modules/.bin/kintone-customize-uploader manifest.json",
+    "watch": "./node_modules/.bin/kintone-customize-uploader manifest.json --watch"
   },
   "repository": {
     "type": "git",
