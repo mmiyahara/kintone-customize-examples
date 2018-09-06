@@ -1,0 +1,22 @@
+{
+  "name": "kintone-customize-examples",
+  "version": "1.0.0",
+  "description": "Required packages for kintone customize examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msttttk/kintone-customize-examples.git"
+  },
+  "keywords": [
+    "kintone"
+  ],
+  "author": "Masataka Miyahara <mstkmyhr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msttttk/kintone-customize-examples/issues"
+  },
+  "homepage": "https://github.com/msttttk/kintone-customize-examples#readme"
+}
